@@ -1,32 +1,16 @@
-Freelancer Jekyll theme
+My Portfolio Website
 =========================
+This webspace is designed to showcase a variety of projects from my personal, academic, and professional career.
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+Visit [gargirou.github.io](https://gargirou.github.io) to view it
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+## Technologies
+[gargirou.github.io](https://gargirou.github.io) is composed of the following technologies:
 
----
-```
+* [Jekyll](https://jekyllrb.com)
+* [jQuery](https://jquery.com/)
+* [Bootstrap](http://getbootstrap.com/)
+* [Formspree](https://formspree.io/)
+* [Font Awesome](http://fontawesome.io/)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+Theme is based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)

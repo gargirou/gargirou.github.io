@@ -5,11 +5,7 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.location }}</h3>
-                        <p>
-                            {% for addr in site.address %}
-                                {{ addr.line }} <br>
-		                    {% endfor %}
-                        </p>
+                        <p class="reverse">{{ site.antispamemail }}</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>

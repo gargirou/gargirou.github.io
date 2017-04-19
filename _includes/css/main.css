@@ -82,7 +82,11 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: {{ site.header.bg-image }} no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 header .container {
@@ -453,4 +457,9 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+/* Reverse text */
+.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
 }
