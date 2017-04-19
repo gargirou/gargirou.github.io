@@ -36,6 +36,15 @@ h6 {
     font-weight: 700;
 }
 
+hr.simple-line {
+  margin: 25px auto 30px;
+  padding: 0;
+  max-width: 250px;
+  border: 0;
+  border-top: solid 5px;
+  text-align: center;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
