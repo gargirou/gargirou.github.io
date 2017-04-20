@@ -92,7 +92,8 @@ header {
     text-align: center;
     color: #fff;
     {% if site.header.bg-image %}
-      background: url(img/{{ site.header.bg-image }}) no-repeat center center fixed;
+      background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+                rgba(0,0,0,0.25) url(img/{{ site.header.bg-image }}) no-repeat center center fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;

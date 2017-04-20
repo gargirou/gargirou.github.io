@@ -9,6 +9,6 @@ project-date: January 2017
 client: SamsOriginalArt
 website: https://samsoriginalart.com/
 category: Web Development
-description: Sam's vision is to provide everyone people with high quality art at an affordable price. I was able to help materialize Sam's vision by developing SamsOriginalArt.com; an online store where users can view high resolutions images of Sam's paintings in order to see every detail of the painting before purchase. SamsOriginalArt was created using WordPress and WooCommerce.
+description: Sam's vision is to provide as many people as possible with high quality art at an affordable price. I was grateful to be able to help materialize Sam's vision by developing SamsOriginalArt.com; an online store where users can purchase Sam's art and get it delivered right to their door. The website was designed to allow users to view high resolution images of Sam's artwork, which gave people the power to see every detail of each painting before making a purchase. SamsOriginalArt was created using WordPress and WooCommerce.
 
 ---
