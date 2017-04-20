@@ -1,12 +1,14 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: 2017-04-19
+img: slsexpresslinen-logo.jpg
+screenshot: slsexpresslinen-screenshot.jpg
+alt: sls-express-linen
+project-date: April 2017
+client: SLS Express Linen
+website: http://slslaundry.ca/
+category: Web Development - IT Services
+description: SLS Express Linen cleans and delivery laundry to a vast number of hotels and restaurants daily. As their business expanded, they needed a modern mobile friendly website to service customer inquiries. I provided them a clean WordPress website where they can showcase their laundry service and products, as well as integrated their company on a variety of social media platforms.<br/> Alongside creating their website, I also provided SLS Express Linen with on-site IT support in order to ensure their computing devices were running smoothly.
 
 ---

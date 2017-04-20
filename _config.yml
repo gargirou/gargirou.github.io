@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 #Header image. Insert image into url("")
 header:
-  bg-image: url(img/garabaldi-bg-2.jpg)
+  bg-image: #santorini-sunset.jpg
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
