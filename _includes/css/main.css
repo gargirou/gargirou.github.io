@@ -486,3 +486,9 @@ footer .footer-below {
   unicode-bidi: bidi-override;
   direction: rtl;
 }
+
+@media(max-width:767px) {
+    .portfolio-modal .modal-content h2 {
+      font-size: 2em;
+    }
+}
