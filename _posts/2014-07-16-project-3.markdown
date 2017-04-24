@@ -8,7 +8,6 @@ screenshot: kootenaysmilestudio-screenshot.jpg
 project-date: August 2015
 client: Kootenay Smile Studio
 website: http://kootenaysmiles.ca/
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+category: Web Development - Graphic Design
+description: <a href="http://kootenaysmiles.ca/" target="_blank" />Kootenay Smile Studio</a> is a dental studio that offers general and cosmetic dentistry. They contacted me to recreate their website into a more modern, user-friendly space where they can showcase their services. I decided to create for them a WordPress website that resembled the same look and feel of their studio, which happened to impress the employees and clients. To accompany the website, I also implemented a "forms" section where patients can submit their dental information. These forms needed to be secure, therefore I implemented the forms using the <a href="https://www.wufoo.com/web-forms/" target="_blank"/>WuFoo Forms</a> service and integrated them into the website.<br/> After completing the website, Kootenay Smile Studios contacted me to create a graphical slide-show, to be played in their studio, which highlights their services. I designed the slide-show to have the look and feel of the style of the website, which made the atmosphere of the dental studio, the website, and the slideshow seem as one seamless experience.
 ---
