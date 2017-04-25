@@ -15,12 +15,15 @@
                           <div class="row">
                             <h2>{{ post.title }}</h2>
                             <hr>
-                            <div class="col-md-4 portfolio-item" id="portfolio">
-                              <a href="{{ post.website }}" class="portfolio-link-img" target="_blank">
-                                  <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <div class="col-md-4">
+                              <a href="{{ post.website }}" class="portfolio-img-link" target="_blank">
+                                  <img src="img/portfolio/{{ post.img }}" class="img-responsive img-link" alt="{{ post.alt }}">
+                                  <div class="middle">
+                                    <div class="link-text">Visit Website</div>
+                                  </div>
                               </a>
                             </div>
-                            <div class="col-md-8 text-left">
+                            <div class="col-md-8 text-left content-text">
                               <p>{{ post.description }}</p>
                             </div>
                           </div>
