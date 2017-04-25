@@ -488,7 +488,7 @@ footer .footer-below {
 }
 
 @media(max-width:767px) {
-    .portfolio-modal .modal-content h2 {
+    section h2 {
       font-size: 2em;
     }
 }
