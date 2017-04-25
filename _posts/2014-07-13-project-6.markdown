@@ -6,9 +6,9 @@ img: stepsdancecentre-logo.jpg
 alt: stepsdancecentre
 screenshot: stepsdancecentre-screenshot.jpg
 project-date: August 2015
-client: Steps Dance Centre
+title: Steps Dance Centre
 website: http://stepsdancecentre.ca/
-category: Web Development
+categories: [WebDevelopment]
 description: <a href="http://stepsdancecentre.ca/" target="_blank"/>Steps Dance Centre</a> is a dance studio dedicated to teaching children how to dance to a variety of genres. After experiencing troubles with managing their current website, the owners of Steps Dance Centre contacted me to make them a new modern, more user friendly website. I happily redesigned their website as well as moved their email and web files to a better quality web server. Not only was I able to give them a new WordPress website, but I was also able to reduce their hosting fees by over 1000%. This allowed the owners to worry less about the website and focus more on dance.
 
 ---

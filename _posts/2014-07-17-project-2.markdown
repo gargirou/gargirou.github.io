@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2017-01-15
 img: samsoriginalart-logo.jpg
 screenshot: samsoriginalart-screenshot.jpg
 alt: sams-original-art
 project-date: January 2017
-client: SamsOriginalArt
+title: SamsOriginalArt
 website: https://samsoriginalart.com/
-category: Web Development
+categories: [WebDevelopment]
 description: Sam's vision is to provide as many people as possible with high quality art at an affordable price. I was grateful to be able to help materialize Sam's vision by developing <a href="https://samsoriginalart.com" target="_blank"/>SamsOriginalArt.com</a>; an online store where users can purchase Sam's art and get it delivered right to their door. The website was designed to allow users to view high resolution images of Sam's artwork, which gave people the power to see every detail of each painting before making a purchase. <a href="https://samsoriginalart.com" target="_blank"/>SamsOriginalArt.com</a> was created using WordPress and WooCommerce.
 
 ---

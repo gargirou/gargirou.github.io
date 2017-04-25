@@ -1,5 +1,5 @@
  <!-- Portfolio Modals -->
- {% for post in site.posts %}
+ {% for post in site.categories.WebDevelopment  %}
     <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -13,7 +13,7 @@
                     <div class="col-lg-10 col-lg-offset-1">
                         <div class="modal-body">
                           <div class="row">
-                            <h2>{{ post.client }}</h2>
+                            <h2>{{ post.title }}</h2>
                             <hr>
                             <div class="col-md-4">
                               <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
@@ -35,8 +35,10 @@
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong>{{ post.category }}</a>
+                                  {% for category in post.categories %}
+                                    <strong>{{ category }}</a>
                                     </strong>
+                                    {% endfor %}
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>

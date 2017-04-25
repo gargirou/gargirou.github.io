@@ -6,9 +6,9 @@ img: slsexpresslinen-logo.jpg
 screenshot: slsexpresslinen-screenshot.jpg
 alt: sls-express-linen
 project-date: April 2017
-client: SLS Express Linen
+title: SLS Express Linen
 website: http://slslaundry.ca/
-category: Web Development - IT Services
+categories: [WebDevelopment, ITServices]
 description: <a href="http://slslaundry.ca/" target="_blank"/>SLS Express Linen</a> sells, washes, and delivers textiles to a vast number of hotels and restaurants daily. As the demand for their services grew within recent years, they were in need of a modern mobile friendly website to assist new and existing clientele. I provided them with a clean WordPress website where they were able to neatly showcase their laundry service and products. In collaboration with the new website, I integrated their company on a variety of social media platforms to boost customer outreach.<br/> I also provided SLS Express Linen with on-site IT support in order to ensure their computing devices were running smoothly.
 
 ---

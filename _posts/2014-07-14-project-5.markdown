@@ -6,9 +6,9 @@ img: silvercitycrossfit-logo.jpg
 alt: silvercitycrossfit
 screenshot: silvercitycrossfit-screenshot.jpg
 project-date: February 2016
-client: Silver City CrossFit
+title: Silver City CrossFit
 website: http://silvercitycrossfit.com/
-category: Web Development
+categories: [WebDevelopment]
 description: Silver City CrossFit was created to help people reach their health and fitness goals. Since the beginning of 2016, they have made a tremendous impact within their community. I developed <a href="http://silvercitycrossfit.com" target="_blank"/>SilverCityCrossFit.com</a> to be used as a central hub for new and returning users. Users can sign up for CrossFit memberships, view the weekly CrossFit schedule, opt-in to the newsletter, and more. The website was created with WordPress with integrated software from <a href="https://mindbodyonline.com" target="_blank"/>mindbodyonline.com</a>.
 
 ---
