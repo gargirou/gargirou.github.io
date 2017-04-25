@@ -15,8 +15,10 @@
                           <div class="row">
                             <h2>{{ post.title }}</h2>
                             <hr>
-                            <div class="col-md-4">
-                              <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <div class="col-md-4 portfolio-item" id="portfolio">
+                              <a href="{{ post.website }}" class="portfolio-link-img" target="_blank">
+                                  <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                              </a>
                             </div>
                             <div class="col-md-8 text-left">
                               <p>{{ post.description }}</p>
@@ -26,8 +28,8 @@
                             <img src="img/portfolio/{{ post.screenshot }}" class="img-responsive img-centered light-shadow" alt="{{ post.alt }}-screenshot">
                           </div>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="{{ post.website }}">{{ post.client }}</a>
+                                <li>Website:
+                                    <strong><a href="{{ post.website }}" target="_blank">{{ post.title }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
