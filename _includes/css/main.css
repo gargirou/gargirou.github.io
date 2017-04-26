@@ -272,6 +272,16 @@ section.success {
     z-index: 2;
 }
 
+#contact {
+  background-color: #a9c0d2;
+}
+
+.contact-content {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
@@ -532,5 +542,9 @@ footer .footer-below {
     }
     .portfolio-modal .modal-content h2 {
       font-size: 2em;
+    }
+    .contact-content {
+      padding: 20px;
+      border-radius: 0px;
     }
 }

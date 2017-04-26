@@ -9,6 +9,6 @@ project-date: January 2017
 title: SamsOriginalArt
 website: https://samsoriginalart.com/
 categories: [WebDevelopment]
-description: Sam's vision is to provide as many people as possible with high quality art at an affordable price. I was grateful to be able to help materialize Sam's vision by developing <a href="https://samsoriginalart.com" target="_blank"/>SamsOriginalArt.com</a>; an online store where users can purchase Sam's art and get it delivered right to their door. The website was designed to allow users to view high resolution images of Sam's artwork, which gave people the power to see every detail of each painting before making a purchase. <a href="https://samsoriginalart.com" target="_blank"/>SamsOriginalArt.com</a> was created using WordPress and WooCommerce.
+description: <p>Sam's vision is to provide as many people as possible with high quality art at an affordable price. I was grateful to be able to help materialize Sam's vision by developing <a href="https://samsoriginalart.com" target="_blank"/>SamsOriginalArt.com</a>; an online store where users can purchase Sam's art and get it delivered right to their door. The website was designed to allow users to view high resolution images of Sam's artwork, which gave people the power to see every detail of each painting before making a purchase. <a href="https://samsoriginalart.com" target="_blank"/>SamsOriginalArt.com</a> was created using WordPress and WooCommerce.</p>
 
 ---
