@@ -1,7 +1,9 @@
 # Site settings
 title: George's Portfolio
 email: georgeargiroudis@gmail.com
-antispamemail: moc.liamg@siduorigraegroeg
+antispam_email:
+  mail_name: georgeargiroudis
+  mail_tail_reverse: moc.liamg
 url: https://gargirou.github.io
 description: "Welcome to my portfolio website. This space is designed to showcase a variety of projects from my personal, academic, and professional career."
 meta_author: Argiroudis George #LastName FirstName
@@ -38,7 +40,7 @@ color:
 footer:
   copyright: George Argiroudis
   location: Contact
-  social: Around the Web
+  social: Social
   credits: Credits
   services: Services
 
