@@ -223,10 +223,13 @@ section.success {
 #about h3 {
   color: aliceblue;
 }
+
 #about li strong {
   color: palegoldenrod;
 }
-
+#about li {
+  padding: 12px 0px 12px 0px;
+}
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;

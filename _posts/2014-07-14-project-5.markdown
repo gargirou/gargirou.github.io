@@ -9,6 +9,6 @@ project-date: February 2016
 title: Silver City CrossFit
 website: http://silvercitycrossfit.com/
 categories: [WebDevelopment]
-description: <p>Silver City CrossFit was created to help people reach their health and fitness goals. Since the beginning of 2016, they have made a tremendous impact within their community. I developed <a href="http://silvercitycrossfit.com" target="_blank"/>SilverCityCrossFit.com</a> to be used as a central hub for new and returning users they can sign up for CrossFit memberships, view the weekly CrossFit schedule, opt-in to the newsletter, and more. The website was created with WordPress with integrated software from <a href="https://mindbodyonline.com" target="_blank"/>mindbodyonline.com</a>.</p>
+description: <p>Silver City CrossFit was created to help people reach their health and fitness goals. Since the beginning of 2016, they have made a tremendous impact within their community. I developed <a href="http://silvercitycrossfit.com" target="_blank">SilverCityCrossFit.com</a> to be used as a central hub for new and returning users they can sign up for CrossFit memberships, view the weekly CrossFit schedule, opt-in to the newsletter, and more. The website was created with WordPress with integrated software from <a href="https://mindbodyonline.com" target="_blank">mindbodyonline.com</a>.</p>
 
 ---
