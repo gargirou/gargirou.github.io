@@ -13,4 +13,11 @@ Visit [gargirou.github.io](https://gargirou.github.io) to view it
 * [Formspree](https://formspree.io/)
 * [Font Awesome](http://fontawesome.io/)
 
+---
+#### Sections to add
+- Software Projects
+- Guides/Tutorials
+
+---
+
 Theme is based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
