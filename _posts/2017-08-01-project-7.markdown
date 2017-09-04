@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2017-08-01
+img: soizimage-logo.jpg
+alt: soizickmeister
+screenshot: soizimage-screenshot.jpg
+project-date: August 2017
+title: Soizick Meister
+website: http://soizimage.com/
+categories: [WebDevelopment]
+description: <p><a href="http://soizimage.com/" target="_blank">Soizick Meister</a> is a Swiss freelance Canadian artist living in Vancouver. Her humorous and surreal paintings have been shown in exhibitions in Europe and Canada. Private and corporate collectors worldwide own her paintings. Soizick was looking into building a website to showcase her paintings. In order to make her paintings stand out on the web, we decided to create a website that had a clean style and simple interface. With the help of a tool called <a href="https://revolution.themepunch.com/" target="_blank">Revolution Slider</a>, I was able to create multiple galleries that were highly functional and extremely minimal in design. In other words, we let the paintings do all the talking.</p>
+---
